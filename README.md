@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Özlem</h1>
+<h3 align="center">A passionate developer focusing on Java, React, and JavaScript</h3>
 
-<!--
-**oslemcihan/oslemcihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently learning:  
+**React · JavaScript · Java · TailwindCSS · Spring Boot**
 
-Here are some ideas to get you started:
+💬 Ask me about:  
+**Java · React · JavaScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:  
+**ozlemcihan03@gmail.com**
+
+🌐 Connect with me:  
+[LinkedIn Profile](https://www.linkedin.com/in/%C3%B6zlem-cihan-75947a294/)
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,react,js,tailwind,spring" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oslemcihan&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oslemcihan&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oslemcihan&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=oslemcihan&theme=onestar&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+### 💡 Developer Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
