@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Özlem</h1>
+<h1 align="center">Hi, I'm Özlem</h1>
 <h3 align="center">A passionate developer focusing on Java, React, and JavaScript</h3>
 
 🌱 Currently learning:  
@@ -27,7 +27,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oslemcihan&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oslemcihan&theme=radical" />
+  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=oslemcihan&theme=radical" alt="GitHub Streak Stats" />
+</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oslemcihan&layout=compact&theme=radical" />
 </p>
 
