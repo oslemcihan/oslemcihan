@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Özlem</h1>
 <h3 align="center">A passionate developer focusing on Java, React, and JavaScript</h3>
 
-🌱 Currently learning:  
+Currently learning:  
 **React · JavaScript · Java · TailwindCSS · Spring Boot**
 
-💬 Ask me about:  
+Ask me about:  
 **Java · React · JavaScript**
 
-📫 How to reach me:  
+How to reach me:  
 **ozlemcihan03@gmail.com**
 
 🌐 Connect with me:  
@@ -27,9 +27,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oslemcihan&show_icons=true&theme=radical" />
-  <p align="center">
   <img src="https://streak-stats.demolab.com?user=oslemcihan&theme=radical" alt="GitHub Streak Stats" />
-</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oslemcihan&layout=compact&theme=radical" />
 </p>
 
