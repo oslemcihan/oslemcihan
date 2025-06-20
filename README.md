@@ -27,7 +27,6 @@ How to reach me:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oslemcihan&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=oslemcihan&theme=radical" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oslemcihan&layout=compact&theme=radical" />
 </p>
 
